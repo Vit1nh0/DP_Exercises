@@ -1,4 +1,5 @@
 DP_Exercises: Classificação de Imagens de Câncer de Pele com CNN
+
 Este repositório contém um projeto de Deep Learning focado na construção de uma Rede Neural Convolucional (CNN) para classificar imagens de lesões de pele como 'benigno' ou 'maligno'. O projeto foi desenvolvido usando Keras e TensorFlow, aproveitando um conjunto de dados do Roboflow para explorar o potencial da IA no diagnóstico médico preliminar por meio de imagens.
 
 📖 Visão Geral do Projeto
